@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Benjamin 👋
+I am a fourth year Computer Science student at the University of Southampton.
 <!--
 **benlellouch/benlellouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
