@@ -7,7 +7,6 @@ I would like to work at the intersection of software architecture and machine le
 
 ## 🔭 I’m currently working on:
 - My [personal website](https://github.com/benlellouch/benlellouch.github.io) where I am creating a CMS using [Rocket](https://rocket.rs/) 🚀, a Rust web framework. I am planning on learning some React ⚛️ to rework the front-end which is currently a website template.
--  A Natural Language Processing system for J.P. Morgan as part of my summer internship.
 
 
 
