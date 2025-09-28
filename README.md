@@ -1,5 +1,5 @@
 # Hi, I'm Benjamin 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Benjamin%20Lellouch-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-lellouch/)](https://www.linkedin.com/in/benjamin-lellouch/) [![Gmail Badge](https://img.shields.io/badge/-blellouch-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:blellouch@gmail.com)](mailto:blellouch@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Benjamin%20Lellouch-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-lellouch/)](https://www.linkedin.com/in/benjamin-lellouch/)
 
 I'm an Associate Software Engineer at J.P. Morgan working on FX Trading Systems. 
 
